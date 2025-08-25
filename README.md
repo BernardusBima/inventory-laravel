@@ -1,6 +1,6 @@
 # Aplikasi Inventory Gudang - Laravel
 
-Sebuah aplikasi web yang dibangun dengan framework Laravel untuk mengelola data stok barang secara real-time. Proyek ini dibuat untuk [Sebutkan nama klien atau 'Studi Kasus Pembelajaran'].
+Sebuah aplikasi web yang dibangun dengan framework Laravel untuk mengelola data stok barang secara real-time. Proyek ini dibuat untuk Studi Kasus Pembelajaran.
 
 ## 🚀 Teknologi yang Digunakan
 -   **PHP**
