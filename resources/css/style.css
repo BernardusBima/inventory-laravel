@@ -1,0 +1,19 @@
+/* public/css/style.css */
+body { font-family: Arial, sans-serif; background-color: #f4f4f9; color: #333; line-height: 1.6; }
+.container { width: 80%; margin: 20px auto; background: #fff; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1); border-radius: 8px; }
+h1 { color: #444; text-align: center; margin-bottom: 20px; }
+table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+th, td { padding: 12px; border: 1px solid #ddd; text-align: left; }
+th { background-color: #007bff; color: white; }
+tr:nth-child(even) { background-color: #f2f2f2; }
+.btn { display: inline-block; padding: 8px 15px; color: #fff; text-decoration: none; border-radius: 5px; border: none; cursor: pointer; font-size: 14px; }
+.btn-tambah { background-color: #28a745; margin-bottom: 20px; }
+.btn-edit { background-color: #ffc107; }
+.btn-hapus { background-color: #dc3545; }
+.btn-kembali { background-color: #6c757d; }
+.form-inventory .form-group { margin-bottom: 15px; }
+.form-inventory label { display: block; margin-bottom: 5px; }
+.form-inventory input { width: 100%; padding: 8px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px; }
+.alert { padding: 15px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; }
+.alert-success { color: #155724; background-color: #d4edda; border-color: #c3e6cb; }
+.alert-danger { color: #721c24; background-color: #f8d7da; border-color: #f5c6cb; }
