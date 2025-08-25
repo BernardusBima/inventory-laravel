@@ -23,5 +23,5 @@ Sebuah aplikasi web yang dibangun dengan framework Laravel untuk mengelola data 
 ## 🖼️ Tampilan Aplikasi
 *Link gambar di bawah ini akan kita perbarui setelah selesai upload.*
 
-![Screenshot Halaman Login](https://raw.githubusercontent.com/BernardusBima/inventory-laravel/main/images/Project Inventory 1.png)
-![Screenshot Dashboard](https://raw.githubusercontent.com/BernardusBima/inventory-laravel/main/images/Project Inventory 2.png)
+![Screenshot Halaman Login](https://raw.githubusercontent.com/BernardusBima/inventory-laravel/main/images/Project-Inventory-1.png)
+![Screenshot Dashboard](https://raw.githubusercontent.com/BernardusBima/inventory-laravel/main/images/Project-Inventory-2.png)
