@@ -6,7 +6,7 @@ Sebuah aplikasi web yang dibangun dengan framework Laravel untuk mengelola data 
 -   **PHP**
 -   **Laravel**
 -   **MySQL**
--   **CSS** (Sebutkan yang kamu pakai, misal: Bootstrap/Tailwind)
+-   **CSS (Boostrap + Tailwind)**
 -   **JavaScript**
 
 ## ⚙️ Cara Instalasi & Setup Lokal
