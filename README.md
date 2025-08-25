@@ -21,7 +21,9 @@ Sebuah aplikasi web yang dibangun dengan framework Laravel untuk mengelola data 
 9.  Jalankan server development: `php artisan serve`
 
 ## 🖼️ Tampilan Aplikasi
-*Link gambar di bawah ini akan kita perbarui setelah selesai upload.*
 
+*Tampilan Login Page*
 ![Screenshot Halaman Login](https://raw.githubusercontent.com/BernardusBima/inventory-laravel/main/images/Project-Inventory-1.png)
+
+*Tampilan Dashboard*
 ![Screenshot Dashboard](https://raw.githubusercontent.com/BernardusBima/inventory-laravel/main/images/Project-Inventory-2.png)
