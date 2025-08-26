@@ -18,7 +18,7 @@ Sebuah aplikasi web yang dibangun dengan framework Laravel untuk mengelola data 
 6.  Konfigurasi koneksi database di file `.env` Anda.
 7.  Jalankan migrasi untuk membuat tabel: `php artisan migrate`
 8.  (Opsional) Jalankan seeder untuk data awal: `php artisan db:seed`
-9.  Jalankan server development: `php artisan serve`
+9.  Jalankan server development: `php artisan serve` dan `npm run dev`
 
 ## 🖼️ Tampilan Aplikasi
 
